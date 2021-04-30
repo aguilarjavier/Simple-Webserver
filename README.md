@@ -1,5 +1,6 @@
 # Simple-Webserver
-Project for cop5611 that I chose to learn about networking.\n
+Project for cop5611 that I chose to learn about networking.
+
 My goals for this project was to
 - Learn about sockets
 - Learn about http, tcp
